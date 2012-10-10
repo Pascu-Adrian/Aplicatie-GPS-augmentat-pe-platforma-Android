@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/imaginePOI"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/Distantatxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imaginePOI"
+        android:text="@string/Distantatxt" />
+
+    <TextView
+        android:id="@+id/distantapoivaloare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/Distantatxt"
+        android:text="@string/valoare" />
+
+    <TextView
+        android:id="@+id/TipPOItxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/distantapoivaloare"
+        android:text="@string/tippoistring" />
+
+    <TextView
+        android:id="@+id/tippoivaloare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/TipPOItxt"
+        android:text="@string/valoare" />
+
+    <EditText
+        android:id="@+id/infopoitxtarea"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imaginePOI"
+        android:layout_below="@+id/Distantatxt"
+        android:layout_toRightOf="@+id/imaginePOI"
+        android:clickable="false"
+        android:editable="false"
+        android:ems="10"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/mergilapoibutton"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imaginePOI"
+        android:text="@string/mergila" />
+
+    <TextView
+        android:id="@+id/latitudinepoitxt"
+        android:layout_width="1dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/mergilapoibutton"
+        android:layout_alignBottom="@+id/mergilapoibutton"
+        android:layout_toRightOf="@+id/mergilapoibutton"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/longitudinepoitxt"
+        android:layout_width="1dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/latitudinepoitxt"
+        android:layout_alignBottom="@+id/latitudinepoitxt"
+        android:layout_toRightOf="@+id/imaginePOI"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/numepoiitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/infopoitxtarea"
+        android:layout_below="@+id/infopoitxtarea"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35dp" />
+
+</RelativeLayout> 

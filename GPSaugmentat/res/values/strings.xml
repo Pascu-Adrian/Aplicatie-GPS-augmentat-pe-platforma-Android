@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GPSAUGMENTATActivity!</string>
+    <string name="app_name">GPSAUGMENTAT</string>
+    <string name="POI">POI LISTA</string>
+    <string name="GPS">POI AUGMENTAT</string>
+    <string name="Distantatxt">Distanta:</string>
+    <string name="valoare">valoare</string>
+    <string name="tippoitxt"> Tip POI:</string>
+    <string name="mergila">MERGI LA!</string>
+    <string name="sendimg">IMG!</string>
+    <string name="sendpoi">POI!</string>
+    <string name="existastring">Exista </string>
+    <string name="inapropierestring">" in apropiere."</string>
+    <string name="sunetavertizarestring">Sunet/Avertizare</string>
+    <string name="n">N</string>
+    <string name="s">S</string>
+    <string name="e">E</string>
+    <string name="univovidius">Universitatea ovidius</string>
+    <string name="schnel">Schnel</string>
+    <string name="scoica">Scoica</string>
+    <string name="funny">Funny People</string>
+    <string name="antena1">Antena1</string>
+    <string name="tippoistring"> Tip:</string>
+    <string name="numepoistring">Nume POI:</string>
+    <string name="descrierepoistring">Descriere POI:</string>
+    <string name="anuleazastring">ANULEAZA</string>
+    <string name="salveazastring">SALVEAZA</string>
+
+    <string-array name="tipuripoi">
+	<item>Cultura</item>
+	<item>Divertisment</item>
+	<item>Restaurant_Bar</item>
+	<item>Biserica</item>
+	<item>Personal</item>
+	<item>Toate</item>
+	</string-array>
+	
+	<string-array name="distantepoi">
+	<item>100</item>
+	<item>500</item>
+	<item>1000</item>
+	<item>1500</item>
+	<item>2000</item>
+	</string-array>
+	<string name="filtreazastring">FILTREAZA</string>
+	<string name="indicatiisonore">Indicatii sonore</string>
+	<string name="avertizarisonor">Avertizari sonore</string>
+	<string name="vedereecran">Vedere ecran noapte</string>
+</resources>

@@ -1,0 +1,203 @@
+<strada id="1" nume="bvd. mamaia" tip="4">
+<ref id="1"></ref>
+<ref id="3"></ref>
+<ref id="5"></ref>
+<ref id="7"></ref>
+<ref id="9"></ref>
+<ref id="11"></ref>
+<ref id="15"></ref>
+<ref id="20"></ref>
+<ref id="25"></ref>
+<ref id="30"></ref>
+<ref id="35"></ref>
+<ref id="39"></ref>
+<ref id="42"></ref>
+<ref id="45"></ref>
+<ref id="47"></ref>
+<ref id="53"></ref>
+<ref id="58"></ref>
+<ref id="60"></ref>
+</strada>
+<strada id="2" nume="str. unirii" tip="5">
+<ref id="2"></ref>
+<ref id="4"></ref>
+<ref id="6"></ref>
+<ref id="8"></ref>
+<ref id="10"></ref>
+<ref id="12"></ref>
+<ref id="16"></ref>
+<ref id="22"></ref>
+<ref id="27"></ref>
+<ref id="32"></ref>
+<ref id="36"></ref>
+<ref id="40"></ref>.
+<ref id="43"></ref>
+<ref id="46"></ref>
+<ref id="48"></ref>
+<ref id="54"></ref>
+<ref id="59"></ref>
+<ref id="61"></ref>
+
+</strada>
+
+<strada id="3" nume="str. libertatii" tip="6">
+<ref id="1"></ref>
+<ref id="2"></ref>
+</strada>
+
+<strada id="4" nume="str. ion voda" tip="6">
+<ref id="3"></ref>
+<ref id="4"></ref>
+</strada>
+
+<strada id="5" nume="str. petru vulcan" tip="6">
+<ref id="5"></ref>
+<ref id="6"></ref>
+</strada>
+
+<strada id="6" nume="str. timisana" tip="6">
+<ref id="7"></ref>
+<ref id="8"></ref>
+</strada>
+
+<strada id="7" nume="str. dobrogei" tip="6">
+<ref id="9"></ref>
+<ref id="10"></ref>
+</strada>
+
+<strada id="8" nume="str. ion ratiu" tip="5">
+<ref id="11"></ref>
+<ref id="12"></ref>
+</strada>
+
+<strada id="9" nume="str. pescarilor" tip="6">
+<ref id="12"></ref>
+<ref id="13"></ref>
+<ref id="14"></ref>
+<ref id="19"></ref>
+<ref id="38"></ref>
+<ref id="41"></ref>
+<ref id="44"></ref>
+<ref id="57"></ref>
+<ref id="63"></ref>
+</strada>
+
+<strada id="10" nume="str. banu mihalcea" tip="6">
+<ref id="15"></ref>
+<ref id="16"></ref>
+<ref id="17"></ref>
+<ref id="18"></ref>
+<ref id="24"></ref>
+</strada>
+
+<strada id="11" nume="str. fagetului" tip="6">
+<ref id="20"></ref>
+<ref id="21"></ref>
+<ref id="22"></ref>
+<ref id="23"></ref>
+<ref id="24"></ref>
+</strada>
+
+<strada id="12" nume="str. muncel" tip="6">
+<ref id="25"></ref>
+<ref id="26"></ref>
+<ref id="27"></ref>
+<ref id="28"></ref>
+<ref id="29"></ref>
+</strada>
+
+<strada id="13" nume="str. pescarus" tip="6">
+<ref id="30"></ref>
+<ref id="31"></ref>
+<ref id="32"></ref>
+<ref id="33"></ref>
+<ref id="34"></ref>
+</strada>
+
+<strada id="14" nume="str. jiului" tip="6">
+<ref id="21"></ref>
+<ref id="26"></ref>
+<ref id="31"></ref>
+</strada>
+
+<strada id="15" nume="str. frasinului" tip="6">
+<ref id="23"></ref>
+<ref id="28"></ref>
+<ref id="33"></ref>
+</strada>
+
+<strada id="16" nume="str. razboieni" tip="6">
+<ref id="35"></ref>
+<ref id="36"></ref>
+<ref id="37"></ref>
+</strada>
+
+<strada id="17" nume="str. dorobanti" tip="6">
+<ref id="39"></ref>
+<ref id="40"></ref>
+<ref id="41"></ref>
+</strada>
+
+<strada id="18" nume="str. ciprian porumbescu" tip="6">
+<ref id="42"></ref>
+<ref id="43"></ref>
+<ref id="44"></ref>
+</strada>
+
+<strada id="19" nume="str. ioan borcea" tip="6">
+<ref id="45"></ref>
+<ref id="46"></ref>
+</strada>
+
+<strada id="20" nume="str. viceamiral ioan murgescu" tip="6">
+<ref id="47"></ref>
+<ref id="48"></ref>
+</strada>
+
+<strada id="21" nume="str. dragoslavele" tip="6">
+<ref id="53"></ref>
+<ref id="54"></ref>
+<ref id="55"></ref>
+<ref id="56"></ref>
+<ref id="57"></ref>
+</strada>
+
+<strada id="22" nume="str. onesti" tip="6">
+<ref id="58"></ref>
+<ref id="59"></ref>
+</strada>
+
+<strada id="23" nume="str. grozesti" tip="6">
+<ref id="60"></ref>
+<ref id="61"></ref>
+<ref id="62"></ref>
+<ref id="63"></ref>
+<ref id="64"></ref>
+</strada>
+
+<strada id="24" nume="aleea complex" tip="7">
+<ref id="62"></ref>
+<ref id="55"></ref>
+</strada>
+
+<strada id="25" nume="aleea gradinita" tip="6">
+<ref id="55"></ref>
+<ref id="49"></ref>
+<ref id="50"></ref>
+<ref id="51"></ref>
+<ref id="52"></ref>
+<ref id="56"></ref>
+</strada>
+
+
+
+
+
+//tipuri
+//1-autostrada
+//2-drum european
+//3-drum national
+//4-bulevard
+//5-strada principala
+//6-strada secundara
+//7-alee

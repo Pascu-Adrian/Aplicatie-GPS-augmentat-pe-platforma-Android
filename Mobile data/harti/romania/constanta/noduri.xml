@@ -1,0 +1,298 @@
+<nod id="1" latitudine="44.193528" longitudine="28.64993">
+<ref id="3"></ref>
+</nod>
+<nod id="2" latitudine="44.193813" longitudine="28.652279">
+<ref id="4"></ref>
+<ref id="1"></ref>
+</nod>
+<nod id="3" latitudine="44.195005" longitudine="28.649297">
+<ref id="5"></ref>
+<ref id="4"></ref>
+<ref id="1"></ref>
+</nod>
+<nod id="4" latitudine="44.195675" longitudine="28.652097">
+<ref id="6"></ref>
+<ref id="2"></ref>
+<ref id="3"></ref>
+</nod>
+<nod id="5" latitudine="44.195421" longitudine="28.649104">
+<ref id="7"></ref>
+<ref id="6"></ref>
+<ref id="3"></ref>
+</nod>
+<nod id="6" latitudine="44.196182" longitudine="28.652054">
+<ref id="8"></ref>
+<ref id="4"></ref>
+<ref id="5"></ref>
+</nod>
+<nod id="7" latitudine="44.195898" longitudine="28.648868">
+<ref id="9"></ref>
+<ref id="8"></ref>
+<ref id="5"></ref>
+</nod>
+<nod id="8" latitudine="44.196667" longitudine="28.652022">
+<ref id="10"></ref>
+<ref id="6"></ref>
+<ref id="7"></ref>
+</nod>
+<nod id="9" latitudine="44.196336" longitudine="28.648653">
+<ref id="11"></ref>
+<ref id="10"></ref>
+<ref id="7"></ref>
+</nod>
+<nod id="10" latitudine="44.197151" longitudine="28.651947">
+<ref id="12"></ref>
+<ref id="8"></ref>
+<ref id="9"></ref>
+</nod>
+<nod id="11" latitudine="44.19689" longitudine="28.648374">
+<ref id="15"></ref>
+<ref id="12"></ref>
+<ref id="9"></ref>
+</nod>
+<nod id="12" latitudine="44.197782" longitudine="28.651893">
+<ref id="16"></ref>
+<ref id="13"></ref>
+<ref id="10"></ref>
+<ref id="11"></ref>
+</nod>
+<nod id="13" latitudine="44.197874" longitudine="28.653481">
+<ref id="14"></ref>
+<ref id="12"></ref>
+</nod>
+<nod id="14" latitudine="44.198274" longitudine="28.653942">
+<ref id="19"></ref>
+<ref id="13"></ref>
+</nod>
+<nod id="15" latitudine="44.197351" longitudine="28.648181">
+<ref id="20"></ref>
+<ref id="16"></ref>
+<ref id="11"></ref>
+</nod>
+<nod id="16" latitudine="44.198221" longitudine="28.651646">
+<ref id="22"></ref>
+<ref id="17"></ref>
+<ref id="12"></ref>
+<ref id="15"></ref>
+</nod>
+<nod id="17" latitudine="44.198428" longitudine="28.653084">
+<ref id="18"></ref>
+<ref id="16"></ref>
+</nod>
+<nod id="18" latitudine="44.198713" longitudine="28.653395">
+<ref id="24"></ref>
+<ref id="17"></ref>
+</nod>
+<nod id="19" latitudine="44.198705" longitudine="28.654264">
+<ref id="38"></ref>
+<ref id="14"></ref>
+</nod>
+<nod id="20" latitudine="44.197805" longitudine="28.64794">
+<ref id="25"></ref>
+<ref id="21"></ref>
+<ref id="15"></ref>
+</nod>
+<nod id="21" latitudine="44.198397" longitudine="28.650252">
+<ref id="26"></ref>
+<ref id="22"></ref>
+</nod>
+<nod id="22" latitudine="44.198667" longitudine="28.65141">
+<ref id="27"></ref>
+<ref id="23"></ref>
+<ref id="16"></ref>
+</nod>
+<nod id="23" latitudine="44.198944" longitudine="28.652419">
+<ref id="28"></ref>
+<ref id="24"></ref>
+<ref id="22"></ref>
+</nod>
+<nod id="24" latitudine="44.199182" longitudine="28.653331">
+<ref id="23"></ref>
+<ref id="18"></ref>
+</nod>
+<nod id="25" latitudine="44.198367" longitudine="28.647645">
+<ref id="30"></ref>
+<ref id="20"></ref>
+</nod>
+<nod id="26" latitudine="44.198905" longitudine="28.650026">
+<ref id="31"></ref>
+<ref id="21"></ref>
+<ref id="25"></ref>
+</nod>
+<nod id="27" latitudine="44.199144" longitudine="28.651153">
+<ref id="32"></ref>
+<ref id="28"></ref>
+<ref id="22"></ref>
+<ref id="26"></ref>
+</nod>
+<nod id="28" latitudine="44.199436" longitudine="28.652172">
+<ref id="33"></ref>
+<ref id="29"></ref>
+<ref id="23"></ref>
+<ref id="27"></ref>
+</nod>
+<nod id="29" latitudine="44.199713" longitudine="28.653202">
+<ref id="28"></ref>
+</nod>
+<nod id="30" latitudine="44.198844" longitudine="28.64743">
+<ref id="35"></ref>
+<ref id="25"></ref>
+</nod>
+<nod id="31" latitudine="44.199405" longitudine="28.649758">
+<ref id="26"></ref>
+<ref id="30"></ref>
+</nod>
+<nod id="32" latitudine="44.19969" longitudine="28.650852">
+<ref id="36"></ref>
+<ref id="33"></ref>
+<ref id="27"></ref>
+<ref id="31"></ref>
+</nod>
+<nod id="33" latitudine="44.199959" longitudine="28.651882">
+<ref id="34"></ref>
+<ref id="28"></ref>
+<ref id="32"></ref>
+</nod>
+<nod id="34" latitudine="44.200243" longitudine="28.652977">
+<ref id="33"></ref>
+</nod>
+<nod id="35" latitudine="44.199367" longitudine="28.647194">
+<ref id="39"></ref>
+<ref id="36"></ref>
+<ref id="30"></ref>
+</nod>
+<nod id="36" latitudine="44.200236" longitudine="28.650488">
+<ref id="40"></ref>
+<ref id="37"></ref>
+<ref id="32"></ref>
+</nod>
+<nod id="37" latitudine="44.200774" longitudine="28.652805">
+<ref id="36"></ref>
+</nod>
+<nod id="38" latitudine="44.200974" longitudine="28.653266">
+<ref id="41"></ref>
+<ref id="19"></ref>
+</nod>
+<nod id="39" latitudine="44.199997" longitudine="28.646872">
+<ref id="42"></ref>
+<ref id="35"></ref>
+</nod>
+<nod id="40" latitudine="44.200843" longitudine="28.650209">
+<ref id="43"></ref>
+<ref id="41"></ref>
+<ref id="36"></ref>
+<ref id="39"></ref>
+</nod>
+<nod id="41" latitudine="44.201374" longitudine="28.652236">
+<ref id="44"></ref>
+<ref id="38"></ref>
+<ref id="40"></ref>
+</nod>
+<nod id="42" latitudine="44.20042" longitudine="28.646679">
+<ref id="45"></ref>
+<ref id="43"></ref>
+<ref id="39"></ref>
+</nod>
+<nod id="43" latitudine="44.201243" longitudine="28.649951">
+<ref id="46"></ref>
+<ref id="44"></ref>
+<ref id="40"></ref>
+</nod>
+<nod id="44" latitudine="44.201759" longitudine="28.652022">
+<ref id="57"></ref>
+<ref id="41"></ref>
+<ref id="43"></ref>
+</nod>
+<nod id="45" latitudine="44.200974" longitudine="28.646411">
+<ref id="47"></ref>
+<ref id="46"></ref>
+<ref id="42"></ref>
+</nod>
+<nod id="46" latitudine="44.201797" longitudine="28.649662">
+<ref id="48"></ref>
+<ref id="43"></ref>
+<ref id="45"></ref>
+</nod>
+<nod id="47" latitudine="44.201505" longitudine="28.646153">
+<ref id="53"></ref>
+<ref id="48"></ref>
+<ref id="45"></ref>
+</nod>
+<nod id="48" latitudine="44.202328" longitudine="28.649372">
+<ref id="54"></ref>
+<ref id="46"></ref>
+<ref id="47"></ref>
+</nod>
+<nod id="49" latitudine="44.202574" longitudine="28.650037">
+<ref id="55"></ref>
+<ref id="50"></ref>
+</nod>
+<nod id="50" latitudine="44.202659" longitudine="28.650498">
+<ref id="51"></ref>
+<ref id="49"></ref>
+</nod>
+<nod id="51" latitudine="44.202805" longitudine="28.650413">
+<ref id="52"></ref>
+<ref id="50"></ref>
+</nod>
+<nod id="52" latitudine="44.203005" longitudine="28.651024">
+<ref id="56"></ref>
+<ref id="51"></ref>
+</nod>
+<nod id="53" latitudine="44.202105" longitudine="28.645864">
+<ref id="58"></ref>
+<ref id="54"></ref>
+<ref id="47"></ref>
+</nod>
+<nod id="54" latitudine="44.202935" longitudine="28.649029">
+<ref id="59"></ref>
+<ref id="55"></ref>
+<ref id="48"></ref>
+<ref id="53"></ref>
+</nod>
+<nod id="55" latitudine="44.203105" longitudine="28.649694">
+<ref id="62"></ref>
+<ref id="56"></ref>
+<ref id="49"></ref>
+<ref id="54"></ref>
+</nod>
+<nod id="56" latitudine="44.203389" longitudine="28.65081">
+<ref id="57"></ref>
+<ref id="52"></ref>
+<ref id="55"></ref>
+</nod>
+<nod id="57" latitudine="44.203458" longitudine="28.651164">
+<ref id="63"></ref>
+<ref id="44"></ref>
+<ref id="56"></ref>
+</nod>
+<nod id="58" latitudine="44.202712" longitudine="28.645606">
+<ref id="60"></ref>
+<ref id="53"></ref>
+</nod>
+<nod id="59" latitudine="44.203497" longitudine="28.648717">
+<ref id="61"></ref>
+<ref id="54"></ref>
+<ref id="58"></ref>
+</nod>
+<nod id="60" latitudine="44.203274" longitudine="28.645273">
+<ref id="61"></ref>
+<ref id="58"></ref>
+</nod>
+<nod id="61" latitudine="44.204058" longitudine="28.648417">
+<ref id="62"></ref>
+<ref id="59"></ref>
+</nod>
+<nod id="62" latitudine="44.204212" longitudine="28.648996">
+<ref id="63"></ref>
+<ref id="55"></ref>
+<ref id="61"></ref>
+</nod>
+<nod id="63" latitudine="44.204597" longitudine="28.650627">
+<ref id="64"></ref>
+<ref id="57"></ref>
+<ref id="62"></ref>
+</nod>
+<nod id="64" latitudine="44.204712" longitudine="28.651078">
+<ref id="63"></ref>
+</nod>
